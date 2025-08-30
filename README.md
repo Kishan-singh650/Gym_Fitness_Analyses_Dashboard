@@ -1,6 +1,6 @@
 # 🏋️ Gym Fitness Analytics Dashboard
 
-![Dashboard Screenshot](<img width="1337" height="747" alt="Gym_Fitness_SS" src="https://github.com/user-attachments/assets/c8c7a6d3-57d8-424e-bcd0-b9d9bad55996" />)
+![Dashboard Screenshot](Gym_Fitness_SS.png)
 
 ## 📌 Project Overview
 The **Gym Fitness Analytics Dashboard** is an interactive **Power BI dashboard** designed to track, analyze, and optimize gym operations and member performance.  
